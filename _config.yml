@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Marwa Mouallem"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "M.Sc. student, CS faculty, Technion"
   # location         : "Earth"
   employer         : "Technion"
   uri              : # URL
@@ -57,7 +57,7 @@ author:
   # keybase          : # Username
   # instagram        : # Username
   # lastfm           : # Username
-  # linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/marwa-moallem-0b093a162/"
   # mastodon         : # URL
   # medium           : # URL
   # pinterest        : # Username
@@ -211,18 +211,21 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
+  # teaching:
+  #   output: true
+  #   permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  # projects:
+  #   output: true
+  #   permalink: /:collection/:path/
+  CV:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  # talks:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
