@@ -1,5 +1,11 @@
-About
-======
+---
+permalink: /
+title: "About"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 I am persuing my MSc in the Computer Science faculty at the Technion under the supervision of Prof. Ittay Eyal. 
 My research focuses on security in distributed systems. 
