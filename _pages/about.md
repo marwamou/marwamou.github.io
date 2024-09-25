@@ -12,7 +12,7 @@ My research focuses on security in distributed systems.
 I completed both my BSc in Computer Science and my BSc in Mathematics in 2019 at the Technion through the [Technion Excellence Program](https://excellence.technion.ac.il/en/).
 
 <br>
-
+ 
 # Publications
 
 {% if site.author.googlescholar %}
