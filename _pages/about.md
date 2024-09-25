@@ -26,7 +26,7 @@ I completed both my BSc in Computer Science and my BSc in Mathematics in 2019 at
 </h2>
 
 **Marwa Mouallem and Ittay Eyal**  
-If the communication between the user and the authenticator is asynchronous, every authentication mechanism is dominated by one defined by a monotonic Boolean function based on credential availability. A scenario-based greedy algorithm can approximate optimal mechanisms by focusing on the most likely scenarios, and surprisingly, even weak credentials can significantly enhance security when used strategically.  
+If the communication between the user and the authenticator is asynchronous, every authentication mechanism is dominated by one defined by a monotonic Boolean function. A scenario-based greedy algorithm can approximate optimal mechanisms by focusing on the most likely scenarios, and surprisingly, even weak credentials can significantly enhance security when used strategically.  
 [**Technical report**](http://marwamou.github.io/files/Asynchronous_authentication_ext.pdf)**, to be published in CCS'24.**
 
 
