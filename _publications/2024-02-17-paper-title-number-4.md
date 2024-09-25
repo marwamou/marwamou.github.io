@@ -8,6 +8,10 @@ To be published in: "CCS'24"
 paperurl: 'http://marwamou.github.io/files/Asynchronous_authentication_ext.pdf'
 ---
 
+Authors: Marwa Mouallem and Ittay Eyal
+
+**Abstract**  
+
 A myriad of authentication mechanisms embody a continuous evolution from verbal passwords in ancient times to contemporary multi-factor authentication: 
 Cryptocurrency wallets advanced from a single signing key to using a handful of well-kept credentials, 
 and for online services, the infamous “security questions” were all but abandoned. 
@@ -22,3 +26,5 @@ We present an algorithm for finding approximately optimal mechanisms by leveragi
 The algorithm immediately revealed two surprising results: Accurately incorporating easily-lost credentials improves cryptocurrency wallet security by orders of magnitude. And novel usage of
 (easily-leaked) security questions improves authentication security
 for online services.
+
+[download](http://marwamou.github.io/files/Asynchronous_authentication_ext.pdf)
