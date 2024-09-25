@@ -13,7 +13,14 @@ I completed both my BSc in Cmputer Science and my BSc in Mathematics in 2019 at 
 
 
 
-# Publications
+---
+permalink: /
+title: "Publications"
+author_profile: true
+redirect_from: 
+  - /publications/
+  - /publications.html
+---
 
 <h2 style="font-size: 24px;">
   <a href="http://marwamou.github.io/publication/2024-02-17-paper-title-number-4" style="text-decoration: none; color: inherit;">
