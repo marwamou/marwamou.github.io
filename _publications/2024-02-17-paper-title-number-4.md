@@ -1,7 +1,7 @@
 ---
 title: "Asynchronus Authentication"
 authors: "Marwa Mouallem and Ittay Eyal"
-date: "3131"
+date: 2024-01-20
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
