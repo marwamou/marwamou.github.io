@@ -20,7 +20,7 @@ I completed both my BSc in Computer Science and my BSc in Mathematics in 2019 at
 {% endif %}
 
 <h2 style="font-size: 24px;">
-  <a href="http://marwamou.github.io/publication/2024-02-17-paper-title-number-4" style="text-decoration: none; color: #90C1E0;">
+  <a href="http://marwamou.github.io/publication/async_auth" style="text-decoration: none; color: #90C1E0;">
    Asynchronous Authentication
   </a>
 </h2>
