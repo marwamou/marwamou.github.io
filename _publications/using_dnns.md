@@ -3,7 +3,7 @@ title: "Using Deep Neural Networks And Derivative Free Optimization To Accelerat
 authors: "Raviv Gal, Eldad Haber, Brian Irwin, Marwa Mouallem, Bilal Saleh, and Avi Ziv"
 collection: publications
 permalink: /publication/using_dnns
-excerpt: 'In optimization tasks where functions are noisy and derivatives are unavailable, incorporating deep neural networks as surrogate models can significantly speed up derivative-free optimization (DFO) methods. This approach, applied to Coverage Directed Generation, leads to faster optimization and fewer simulations, reducing computation time by up to 48%.  
+excerpt: 'In optimization tasks where functions are noisy and derivatives are unavailable, incorporating deep neural networks as surrogate models can significantly speed up derivative-free optimization (DFO) methods. This approach, applied to Coverage Directed Generation, leads to faster optimization and fewer simulations, reducing computation time by up to 48%.'  
 ---
 
 In computer aided design (CAD), a core task is to optimize the parameters of noisy simulations. Derivative free optimization (DFO) methods are the most common choice for this task. 
