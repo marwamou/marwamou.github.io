@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am pursuing my MSc in the [Computer Science faculty](https://cs.technion.ac.il/) at the [Technion](https://www.technion.ac.il/en/home-2/) under the supervision of Prof. [Ittay Eyal](https://ittayeyal.github.io/). 
+I am pursuing my MSc in the [Computer Science faculty](https://cs.technion.ac.il/) at the [Technion](https://www.technion.ac.il/en/home-2/) under the supervision of [Prof. Ittay Eyal](https://ittayeyal.github.io/). 
 My research focuses on security in distributed systems. 
 I completed both my BSc in Computer Science and my BSc in Mathematics in 2019 at the Technion through the [Technion Excellence Program](https://excellence.technion.ac.il/).
 
