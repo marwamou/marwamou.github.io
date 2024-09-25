@@ -15,16 +15,19 @@ I completed both my BSc in Cmputer Science and my BSc in Mathematics in 2019 at 
 
 # Publications
 
-## [Asynchronous Authentication](http://marwamou.github.io/publication/2024-02-17-paper-title-number-4)    
+<h2 style="font-size: 24px;">
+  <a href="http://marwamou.github.io/publication/2024-02-17-paper-title-number-4" style="text-decoration: none; color: blue;">
+   Asynchronous Authentication
+  </a>
+</h2>
+
 **Marwa Mouallem and Ittay Eyal**  
-
 If the communication between the user and the authenticator is asynchronous, every authentication mechanism is dominated by one defined by a monotonic Boolean function based on credential availability. A scenario-based greedy algorithm can approximate optimal mechanisms by focusing on the most likely scenarios, and surprisingly, even weak credentials can significantly enhance security when used strategically.
-
 [**Technical report**](http://marwamou.github.io/files/Asynchronous_authentication_ext.pdf) **, to be published in CCS'24.**
 
 
 <h2 style="font-size: 24px;">
-  <a href="http://marwamou.github.io/publication/using_dnns" style="text-decoration: none; color: inherit;">
+  <a href="http://marwamou.github.io/publication/using_dnns" style="text-decoration: none; color: blue;">
    Using Deep Neural Networks And Derivative Free Optimization To Accelerate Coverage Closure
   </a>
 </h2>
@@ -35,7 +38,7 @@ In optimization tasks where functions are noisy and derivatives are unavailable,
 
 
 <h2 style="font-size: 24px;">
-  <a href="http://marwamou.github.io/publication/executing_instructions" style="text-decoration: none; color: inherit;">
+  <a href="http://marwamou.github.io/publication/executing_instructions" style="text-decoration: none; color: blue;">
    Executing Instructions in Situated Collaborative Interactions
   </a>
 </h2>
