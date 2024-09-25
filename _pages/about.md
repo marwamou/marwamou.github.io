@@ -13,22 +13,11 @@ I completed both my BSc in Cmputer Science and my BSc in Mathematics in 2019 at 
 
 
 
----
-permalink: /
-title: "Publications"
-author_profile: true
-redirect_from: 
-  - /publications/
-  - /publications.html
----
+# Publications
 
-<h2 style="font-size: 24px;">
-  <a href="http://marwamou.github.io/publication/2024-02-17-paper-title-number-4" style="text-decoration: none; color: inherit;">
-    Asynchronous Authentication
-  </a>
-</h2>
-
+## [Asynchronous Authentication](http://marwamou.github.io/publication/2024-02-17-paper-title-number-4)    
 **Marwa Mouallem and Ittay Eyal**  
+
 If the communication between the user and the authenticator is asynchronous, every authentication mechanism is dominated by one defined by a monotonic Boolean function based on credential availability. A scenario-based greedy algorithm can approximate optimal mechanisms by focusing on the most likely scenarios, and surprisingly, even weak credentials can significantly enhance security when used strategically.
 
 [**Technical report**](http://marwamou.github.io/files/Asynchronous_authentication_ext.pdf) **, to be published in CCS'24.**
