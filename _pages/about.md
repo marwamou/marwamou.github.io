@@ -16,18 +16,18 @@ I completed both my BSc in Cmputer Science and my BSc in Mathematics in 2019 at 
 # Publications
 
 <h2 style="font-size: 24px;">
-  <a href="http://marwamou.github.io/publication/2024-02-17-paper-title-number-4" style="text-decoration: none; color: #ADD8E6;">
+  <a href="http://marwamou.github.io/publication/2024-02-17-paper-title-number-4" style="text-decoration: none; color: #90C1E0;">
    Asynchronous Authentication
   </a>
 </h2>
 
 **Marwa Mouallem and Ittay Eyal**  
-If the communication between the user and the authenticator is asynchronous, every authentication mechanism is dominated by one defined by a monotonic Boolean function based on credential availability. A scenario-based greedy algorithm can approximate optimal mechanisms by focusing on the most likely scenarios, and surprisingly, even weak credentials can significantly enhance security when used strategically. 
+If the communication between the user and the authenticator is asynchronous, every authentication mechanism is dominated by one defined by a monotonic Boolean function based on credential availability. A scenario-based greedy algorithm can approximate optimal mechanisms by focusing on the most likely scenarios, and surprisingly, even weak credentials can significantly enhance security when used strategically.  
 [**Technical report**](http://marwamou.github.io/files/Asynchronous_authentication_ext.pdf) **, to be published in CCS'24.**
 
 
 <h2 style="font-size: 24px;">
-  <a href="http://marwamou.github.io/publication/using_dnns" style="text-decoration: none; color: #ADD8E6;">
+  <a href="http://marwamou.github.io/publication/using_dnns" style="text-decoration: none; color:#90C1E0;">
    Using Deep Neural Networks And Derivative Free Optimization To Accelerate Coverage Closure
   </a>
 </h2>
@@ -38,14 +38,13 @@ In optimization tasks where functions are noisy and derivatives are unavailable,
 
 
 <h2 style="font-size: 24px;">
-  <a href="http://marwamou.github.io/publication/executing_instructions" style="text-decoration: none; color: #ADD8E6;">
+  <a href="http://marwamou.github.io/publication/executing_instructions" style="text-decoration: none; color: #90C1E0;">
    Executing Instructions in Situated Collaborative Interactions
   </a>
 </h2>
 
 **Alane Suhr, Claudia Yan, Jack Schluger, Stanley Yu, Hadi Khader, Marwa Mouallem, Iris Zhang, and Yoav Artzi**  
-A collaborative natural language instruction-following game designed to study human-system collaboration. The game, enables exploring how users adapt to system capabilities and how systems recover from errors. It provides insights into improving interaction between users and systems in dynamic, task-driven environments.
-
+A collaborative natural language instruction-following game designed to study human-system collaboration. The game, enables exploring how users adapt to system capabilities and how systems recover from errors. It provides insights into improving interaction between users and systems in dynamic, task-driven environments.  
 [**EMNLP'19**](http://marwamou.github.io/files/Executing_Instructions.pdf)
 
 
